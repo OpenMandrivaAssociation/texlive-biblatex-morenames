@@ -1,6 +1,6 @@
 Name:		texlive-biblatex-morenames
 Version:	43049
-Release:	1
+Release:	2
 Summary:	New names for standard BibLaTeX entry type
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-morenames
