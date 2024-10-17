@@ -3,7 +3,7 @@ Version:	43049
 Release:	2
 Summary:	New names for standard BibLaTeX entry type
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-morenames
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/biblatex-morenames
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-morenames.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/biblatex-morenames.doc.r%{version}.tar.xz
